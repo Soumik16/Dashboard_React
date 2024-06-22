@@ -1,0 +1,10 @@
+.dashboard {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.dashboard h2 {
+    margin-bottom: 20px;
+}
